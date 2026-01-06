@@ -8,10 +8,10 @@
 ```
 <p align="center">
   <b>AI Engineer | Data Engineer | ML Engineer | Data Scientist | MLOPs Engineer | IAC Engineer </b><br>
-  <a href="mailto:hussnaintariq151@gmail.com">hussnaintariq151@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/hussnain-tariq-02454934a/">LinkedIn</a> • 
-  <a href="https://github.com/hussnaintariq151">GitHub</a> • 
-  <a href="tel:+923261066809">+92-3261066809</a>
+  <a href="mailto:raoibrarjamal1996@gmail.com">raoibrarjamal1996@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/rao-ibrar-jamal-635370260/">LinkedIn</a> • 
+  <a href="https://github.com/RaoIbrarJamal">GitHub</a> • 
+  <a href="tel:+923089253393">+92-3089253393</a>
 </p>
 
 <p align="center">
